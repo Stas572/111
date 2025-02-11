@@ -3,7 +3,7 @@ import java.util.Scanner;
 Написать код программы, которая бы переводила числа одной любой системы счисления в любую другую.
  */
 
-class Task8 {
+class Task8B {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long number; // вводимое число

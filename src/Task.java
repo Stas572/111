@@ -6,7 +6,7 @@ package com.sinapps;
 
 import java.util.Scanner;
 
-class Task11 {
+class Task11B {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
